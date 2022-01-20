@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Test",
+      "author": "typicode",
+      "body": "TestTest"
+    },
+    {
+      "name": 1,
+      "title": "แก้ไข ",
+      "body": "เทสเทสแก้ไข",
+      "id": 2
+    },
+    {
+      "id": "watsakarn aunaruj",
+      "name": "gbgatsby",
+      "title": "complete",
+      "author": "me",
+      "body": "0966121170"
+    },
+    {
+      "id": "so awesome",
+      "name": "damn",
+      "title": "this so good",
+      "author": "watsakarn",
+      "body": "0966121170"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
